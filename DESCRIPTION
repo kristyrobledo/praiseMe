@@ -1,9 +1,9 @@
 Package: praiseMe
-Title: THis package gives praise.
+Title: This package gives praise.
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Kristy",
+           family = "Robledo",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
