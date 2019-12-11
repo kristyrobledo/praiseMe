@@ -11,7 +11,7 @@ The goal of praiseMe is to give praise.
 
 ## Installation
 
-This is not on CRAN. The development version from
+This is not on CRAN. You can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
