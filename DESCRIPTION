@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kristy.robledo@ctc.usyd.edu.au",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package gives specific people some praise for doing a good job.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
