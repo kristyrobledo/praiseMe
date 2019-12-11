@@ -16,7 +16,7 @@ Returns text string with praise
 }
 \description{
 This function is useful when you are
-feeling sad.
+feeling sad, and would like to recieve some praise.
 }
 \examples{
 praise(name = "Kristy", punctuation="!")
